@@ -6,4 +6,5 @@ To run the programme you need to run it in a live server (like live server exten
 Built using js(with jQuery), html and css
 
 Based on preprocessing arrays 
+
 gfg: https://www.geeksforgeeks.org/trapping-rain-water/
